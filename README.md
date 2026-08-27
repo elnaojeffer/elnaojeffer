@@ -39,7 +39,7 @@ Disfruto crear soluciones útiles, escribir código limpio y trabajar con buenas
 
 ### 🔗 Conéctate conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeffpalma-dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jerop5/)
 - 📫 [Correo](mailto:jpalmacoloma@gmail.com)
 - 🌐 Portafolio (en construcción)
 
